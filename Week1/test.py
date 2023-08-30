@@ -1,5 +1,5 @@
 
-user_input = int(input())
+user_input = int(input("write a number to convert?"))
 
 subtractor = 32
 multi = 5
